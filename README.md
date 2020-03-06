@@ -1,2 +1,2 @@
 # OnlineCalculator
-453 programming assignment using Python socket 
+Computer networks programming assignment using Python socket 
